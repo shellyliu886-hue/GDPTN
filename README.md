@@ -1,4 +1,4 @@
-# GDPTN: \underline{\textbf{G}}enerative \underline{\textbf{D}}ynamic \underline{\textbf{P}}anel \underline{\textbf{T}}obit \underline{\textbf{N}}etwork
+# GDPTN: Generative Dynamic Panel Tobit Network
 
 ## Project Overview
 **GDPTN** is a specialized toolkit designed for handling **Censored Data**. This project integrates advanced data imputation (padding) algorithms with **Tobit Regression** analysis to address data truncation or censoring issues caused by observational limits in practical research.
